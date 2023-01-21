@@ -4,7 +4,7 @@ Hi 👋 My name is Gavin Sharma
 Full-Stack Developer
 --------------------
 
-I started to learn to code 3 years ago. I started with HTML and CSS and moved into vanilla Javascript. My main programming language is python, but I have experience working with Node JS on the server-side.
+I started to learn to code 3 years ago. I started with HTML and CSS and moved into vanilla Javascript. My main programming language is python. :)
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [gavinsharma30@gmail.com](mailto:gavinsharma30@gmail.com)
