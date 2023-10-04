@@ -6,10 +6,6 @@ Full-Stack Developer
 
 I started to learn to code 3 years ago. I started with HTML and CSS and moved into vanilla Javascript. My main programming language is python. :)
 
-* 🌍  I'm based in Canada
-* ✉️  You can contact me at [gavinsharma30@gmail.com](mailto:gavinsharma30@gmail.com)
-* 🧠  I'm learning Django
-
 ### Skills
 
 <p align="left">
